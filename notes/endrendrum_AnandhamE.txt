@@ -1,0 +1,102 @@
+Song: Endrendrum
+Film: Kadal meengal
+
+
+---------------------------------------------------------------------
+
+Legend for the notes:
+s  = sa    = C
+r1 = ri 1  = C#
+r2 = ri 2  = D
+g2 = ga 2  = D#
+g3 = ga 3  = E
+m1 = ma 1  = F
+m2 = ma 2  = F#
+p  = pa    = G
+d1 = da 1  = G#
+d2 = da 2  = A
+n2 = ni 2  = A#
+n3 = ni 3  = B
+S  = sa    = C [next octave; higher "sa"]
+R1 ...
+
+
+Notes: s r2 g3 m1 p d1 n3 S
+here, r=r2, g=g3, m=m1, d=d1, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+
+Endrendrum aanandhame
+s g   p    S n  d  p
+C E   G   C+ B G#  G
+
+ennangal aayirame
+s g  p   S n d p
+C E  G  C+ B G# G
+
+vaalibathin rasanai 
+p  p p p    p p d
+G  G G G    G G G#
+
+kannil thullave 
+m  m   m   m p
+F  F   F   F G
+
+vandha azhagu
+g  p   sg  gp
+E  G   CE  EG
+
+
+Stanza 1:
+
+ manjal nira  pooveduthu
+ S  S   S S   S  S S S
+C+ C+  C+ C+ C+ C+ C+ C+
+
+mangai udal seer koduthu
+n  S   RG   RSn  n n n
+B C+  D+E+ D+C+B B B B
+
+konji varum paatteduthu
+p  m  g m   p   n n n
+G  F  E F   G   B B B
+
+vandha sugame
+d  n   S n dp
+G# B  C+ B G#G
+
+solla  solla nenjai allum kaaviyam   pirakkum
+nR R   R  R  R  R   R R   nR d n     p d  gmr
+BD+D+ D+ D+ D+ D+  D+ D+  BD+G# B    G G# EFD
+
+kollai  kollum vannam inba raagam   pirakkum
+nR R    R  R   R  R   R R  nR d n   p d  gmr
+BD+ D+ D+ D+  D+ D+  D+ D+ BD+ G# B G G# EFD
+
+isai mazhai pozhindhadhu kuyile
+rm   m d    d n   n  R   R G GRS
+DF   F G#  G# B   B D+  D+ E+ E+D+C+
+
+ azhage varuvaai aruge       pa pa pa pa pa pa
+ SS  n  n n d    dd dmd      d  p  m  g  r  s
+C+C+ B  B B G#  G#G# G#FG#  G#  G  F  E  D  C
+
+(Endrendrum)
+
+
+Stanza 2:
+
+thanga chilai nee sirikka
+dhagam kondu naan irukka
+ondril ondru saerndhirukka
+ennam illaiyo
+
+thottu thottu manmadhanin leelai arivom
+mottavizhndhu vaasam tharum pookkalai rasippom
+
+anaippadhil kidaippadhu perumai
+varuvaai tharuvaai sugame
+
+
+(Endrendrum)
+
